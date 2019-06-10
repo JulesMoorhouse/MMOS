@@ -1,5 +1,4 @@
 # MMOS
-====
 
 ![GitHub](https://img.shields.io/github/license/JulesMoorhouse/MMOS.svg) ![GitHub issues](https://img.shields.io/github/issues/JulesMoorhouse/MMOS.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JulesMoorhouse/MMOS.svg) [![Languages](https://img.shields.io/badge/language-vb6-FF69B4.svg)](#)
 
