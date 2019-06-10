@@ -1,5 +1,4 @@
 # MMOS
-MMOS
 ====
 
 ![GitHub](https://img.shields.io/github/license/JulesMoorhouse/MMOS.svg) ![GitHub issues](https://img.shields.io/github/issues/JulesMoorhouse/MMOS.svg) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JulesMoorhouse/MMOS.svg) [![Languages](https://img.shields.io/badge/language-vb6-FF69B4.svg)](#)
@@ -55,10 +54,7 @@ Various features have been created here to cater for user error and discrepancie
 
 Here's a selection of screenshots from the MMOS program.
 
-<img src="gfx/mmos-account-select.png" width="150" height="">
-<img src="gfx/mmos-address.png" width="150" height="">
-<img src="gfx/mmos-order-summary.png" width="150" height="">
-<img src="gfx/mmos-advice-note.png" width="140" height="">
+<img src="gfx/mmos-account-select.png" width="150" height=""> <img src="gfx/mmos-address.png" width="150" height=""> <img src="gfx/mmos-order-summary.png" width="150" height=""> <img src="gfx/mmos-advice-note.png" width="140" height="">
 
 
 For more details please see the full MMOS Client help file.
@@ -90,9 +86,7 @@ The admin program is aimed at managers and IT staff, it allows changes to be mad
 
 Here's a selection of screenshots from the Admin program.
 
-<img src="gfx/admin-reference-data.png" width="150" height="">
-<img src="gfx/admin-stock-management.png" width="150" height="">
-<img src="gfx/admin-user-management.png" width="150" height="">
+<img src="gfx/admin-reference-data.png" width="150" height=""> <img src="gfx/admin-stock-management.png" width="150" height=""> <img src="gfx/admin-user-management.png" width="150" height="">
 
 ## Reps (MReps.exe) / Manager
 https://github.com/JulesMoorhouse/MMOS-Reps
@@ -107,9 +101,7 @@ Another feature which was added, was to manage duplicate customers, aimed at man
 
 Here's a selection of screenshots from the Reps program.
 
-<img src="gfx/reps-reference-data.png" width="150" height="">
-<img src="gfx/reps-reports.png" width="150" height="">
-<img src="gfx/reps-summary.png" width="150" height="">
+<img src="gfx/reps-reference-data.png" width="150" height=""> <img src="gfx/reps-reports.png" width="150" height=""> <img src="gfx/reps-summary.png" width="150" height="">
 
 ## Common 
 https://github.com/JulesMoorhouse/MMOS-Common
