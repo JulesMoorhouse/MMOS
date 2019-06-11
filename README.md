@@ -165,6 +165,8 @@ Now download Mouse Wheel fix from the Microsoft support site.
 
 Open Visual Basic 6 and add the Mouse Wheel fix add-in.
 
+You'll also need 7-Zip to build the configure / client packages mentioned below.
+
 To build MMOS and all of it's projects, run :-
 ~~~~
 D:\mmos-github\Shared\BatchFiles\BuildAll.bat
