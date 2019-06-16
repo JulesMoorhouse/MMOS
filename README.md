@@ -122,7 +122,7 @@ I also have a warehouse program which was used by my client, however I haven't u
 
 # Installation
 
-Firstly download and unzip the <a href="https://github.com/JulesMoorhouse/MMOS/releases/>Configure-Package.zip</a> file, install the setup program and open the MMOS Configure program.
+Firstly download and unzip the [Configure-Package.zip](https://github.com/JulesMoorhouse/MMOS/releases) file, install the setup program and open the MMOS Configure program.
 
 Follow the instructions in the configuration program.
 
